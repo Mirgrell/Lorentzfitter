@@ -1,5 +1,6 @@
 streamlit
 numpy
+plotly
 plotly.graph_objects
 scipy.optimize
 pandas
