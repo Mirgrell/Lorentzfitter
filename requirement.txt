@@ -1,0 +1,5 @@
+streamlit
+numpy
+plotly.graph_objects
+scipy.optimize
+pandas
