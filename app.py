@@ -50,8 +50,8 @@ def multi_lorentz(x, *params):
 # -----------------------------------------------
 
 st.title("Spektrum mit mehreren Peaks fitten")
-st.text("Mit diesem Skript kann man mehrere Lorentz peaks gleichzeitig fitten, entweder nimmt man das vorgespeicherte Skript (simmuliertes Spektrum) oder lädt ein beliebiges.")
-st.text("Durch Anzahl Peaks und die Sliders können die Startwerte der Simmulation bestimmt werden.")
+st.text("Mit diesem Skript kann man mehrere Lorentzpeaks gleichzeitig fitten, entweder nimmt man das vorgespeicherte Skript (simmuliertes Spektrum) oder lädt ein beliebiges.")
+st.text("Die Anzahl der Peaks sowie die Startwerte der Simmulation können angepasst werden.")
 
 # Spektrum laden oder simulieren?
 source = st.radio(
