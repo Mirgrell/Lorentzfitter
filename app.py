@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 from scipy.optimize import curve_fit
 import pandas as pd
 
